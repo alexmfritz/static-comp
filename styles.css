@@ -1,0 +1,302 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  height: 100%;
+}
+
+main {
+  padding-left: 15px;
+}
+
+footer {
+  height: 300px;
+}
+
+ul, li {
+  font-size: 20px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
+i {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.flex {
+  display: flex;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.start {
+  align-items: flex-start;
+}
+
+.end {
+  align-items: flex-end;
+}
+
+.column {
+  flex-direction: column;
+  text-align: center;
+}
+
+.align {
+  align-items: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.dark-grey {
+  background-color: rgb(44, 44, 44);
+}
+
+.egg-grey {
+  background-color:rgba(216, 216, 216, 0.897);
+}
+
+.text-blue {
+  color: #31acff;
+}
+
+.text-grey {
+  color: rgba(184, 184, 184, 0.9);
+}
+
+.text-white {
+  color: rgba(241, 241, 241, .9);
+}
+
+.user {
+  margin-right: 25px;
+}
+
+.title-img {
+  height: 100px;
+  width: 200px;
+  margin-top: 10px;
+}
+
+.log-in {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 38px;
+  font-weight: normal;
+  color:rgb(68, 68, 68);
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+    grid-auto-rows: minmax(400px, auto);
+    grid-gap: 15px;
+    justify-content: center
+}
+
+.card {
+  border-radius: 4px;
+  background: white;
+  border-radius: 1 px;
+  box-shadow: 1px 0px 4px 3px rgba(0, 0, 0, 0.2);
+}
+
+.card-top {
+  opacity: .8;
+}
+
+.iron-man {
+  background: url("https://c4.wallpaperflare.com/wallpaper/775/446/476/iron-man-robert-downey-jr-robert-downey-mladshiy-tony-stark-tony-stark-hd-wallpaper-thumb.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.iron-man:hover {
+  background: url("https://i.pinimg.com/originals/db/ee/b5/dbeeb5d3473569dd8971597d5c8a6d33.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.cap-am {
+  background: url("https://wallpapercave.com/wp/wp6914813.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.cap-am:hover {
+  background: url("https://cdn.mos.cms.futurecdn.net/qycinoGgX6rK6uehTByTfR.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.odinson {
+  background: url("https://www.slashfilm.com/img/gallery/the-evolution-of-thor/intro-import.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.odinson:hover {
+  background: url("https://cdn.mos.cms.futurecdn.net/HyKmRMdR5yRpKhEz5XkEjk-1200-80.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.widow {
+  background: url("https://www.cnet.com/a/img/WOcE47wXUgMtRL16jfNnK3POemY=/1200x630/2019/08/24/210463b5-a727-4fbf-b3e7-1a374e8f1945/black-widow-cap-civil-war.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.widow:hover {
+  background: url("https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3488856/210705-black-widow-jm-1548.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.hawkeye {
+  background: url("https://s.yimg.com/ny/api/res/1.2/ikjzjmcfY3lU7t9nKl54Dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU1Mg--/https://s.yimg.com/os/creatr-uploaded-images/2021-12/e1f638c0-5db0-11ec-9c77-cc4bc51f6e99");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.hawkeye:hover {
+  background: url("https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/09/11/Pictures/null_495f16c2-b5a2-11e8-bbaf-ff4d73ce44e3.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.hulk {
+  background: url("https://www.dailyactor.com/wp-content/uploads/2020/04/Mark-Ruffalo-avengers-hulk.jpg?ezimgfmt=rs:362x241/rscb96/ng:webp/ngcb96");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.hulk:hover {
+  background: url("https://www.looper.com/img/gallery/every-hulk-movie-ranked-from-worst-to-best/intro-1555712816.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.witch {
+  background: url("https://www.denofgeek.com/wp-content/uploads/2021/02/wandavision-episode-7-breaking-the-fourth-wall-marvel-elizabeth-olsen.png?resize=768%2C432");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.witch:hover {
+  background: url("https://wegotthiscovered.com/wp-content/uploads/2021/07/Wandavision-Elizabeth-Olsen-Defends-Ending-640x321.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.strange {
+  background: url("https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/26/benedict-cumberbatch-doctor-strange.jpg?resize=480:*");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.strange:hover {
+  background: url("https://www.chicagotribune.com/resizer/VBwrAq8whaTfsm7_jbkYub717zY=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/AIZCAVTMBBEXJJ5KSL7B2Q3QR4.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  opacity: 1;
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: white;
+  margin-right: 0 auto;
+}
+
+.views {
+  font-size: 14px;
+}
+
+.numbers {
+  font-size: 36px;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.address {
+  height: 50px;
+  width: 270px;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.url {
+  word-break: break-all;
+  text-align: left;
+}
+
+.sml-pad {
+  padding: 15px;
+}
+
+.sml-lft-pad {
+  padding-left: 20px;
+}
+
+.sml-top-marg {
+  margin-top: 15px;
+}
+
+.sml-btm-marg {
+  margin-bottom: 15px;
+}
+
+.big-top-marg {
+  margin-top: 30px;
+}
+
+.big-btm-marg {
+  margin-bottom: 30px;
+}
+
+.playlist {
+  font-size: 12px;
+}
+
+.playlist-name {
+  font-size: 18px;
+}
