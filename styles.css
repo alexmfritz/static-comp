@@ -124,6 +124,10 @@ h1 {
   height: 150px;
 }
 
+.iron-circle:hover {
+  background-image: linear-gradient(to top, #aa0505, #c54600, #dc7300, #ee9e00, #fbca03);
+}
+
 .iron-man:hover {
   background: url("https://i.pinimg.com/originals/db/ee/b5/dbeeb5d3473569dd8971597d5c8a6d33.jpg");
   background-size: 100%;
@@ -147,6 +151,10 @@ h1 {
   opacity: 1;
 }
 
+.cap-circle:hover {
+  background-image: linear-gradient(to bottom, #ec2004, #ff4662, #ff77a7, #ffa6da, #f4d0f7, #e6cdf4, #d9caef, #ccc6e9, #a69dd8, #7f75c7, #5550b4, #162ca2);
+}
+
 .odinson {
   background: url("https://www.slashfilm.com/img/gallery/the-evolution-of-thor/intro-import.jpg");
   background-size: 100%;
@@ -160,6 +168,10 @@ h1 {
   background-repeat: no-repeat;
   height: 150px;
   opacity: 1;
+}
+
+.thor-circle:hover {
+  background-image: linear-gradient(to right, #404b56, #406a77, #408a8a, #5ca98c, #95c583, #aec16d, #cbbb5d, #e8b156, #d98e3e, #c96a2c, #b74520, #a2141a);
 }
 
 .widow {
@@ -177,6 +189,10 @@ h1 {
   opacity: 1;
 }
 
+.widow-circle:hover {
+  background-image: linear-gradient(to right top, #7a1f1e, #5d191f, #40141b, #240f13, #000000);
+}
+
 .hawkeye {
   background: url("https://s.yimg.com/ny/api/res/1.2/ikjzjmcfY3lU7t9nKl54Dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU1Mg--/https://s.yimg.com/os/creatr-uploaded-images/2021-12/e1f638c0-5db0-11ec-9c77-cc4bc51f6e99");
   background-size: 100%;
@@ -190,6 +206,10 @@ h1 {
   background-repeat: no-repeat;
   height: 150px;
   opacity: 1;
+}
+
+.hawkeye-circle:hover {
+  background-image: linear-gradient(to right top, #79519a, #83559f, #8c58a3, #965ca8, #a060ac);
 }
 
 .hulk {
@@ -207,6 +227,10 @@ h1 {
   opacity: 1;
 }
 
+.hulk-circle:hover {
+  background-image: linear-gradient(to top, #455d3b, #4f6b40, #597944, #648748, #70964b);
+}
+
 .witch {
   background: url("https://www.denofgeek.com/wp-content/uploads/2021/02/wandavision-episode-7-breaking-the-fourth-wall-marvel-elizabeth-olsen.png?resize=768%2C432");
   background-size: 100%;
@@ -220,6 +244,10 @@ h1 {
   background-repeat: no-repeat;
   height: 150px;
   opacity: 1;
+}
+
+.witch-circle:hover {
+  background-image: radial-gradient(circle, #912614, #9c2816, #a62919, #b12b1b, #bc2c1e, #c7352d, #d23e3b, #dd4749, #e85b65, #f16f7f, #f78498, #fc98b0);
 }
 
 .strange {
@@ -237,15 +265,15 @@ h1 {
   opacity: 1;
 }
 
+.strange-circle:hover {
+  background-image: linear-gradient(to right top, #00438d, #54398a, #7e287a, #9a0f61, #aa0042, #b71334, #c02823, #c43d07, #d55802, #e57300, #f38d00, #ffa700);
+}
+
 .circle {
   height: 50px;
   width: 50px;
   border-radius: 50%;
   background: white;
-}
-
-.circle:hover {
-  background: red;
 }
 
 .arrow:hover {
