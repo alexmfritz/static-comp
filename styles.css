@@ -340,10 +340,6 @@ h1 {
   font-size: 18px;
 }
 
-.views:hover, .numbers:hover {
-  color: yellow;
-}
-
 i:hover, span:hover, .user:hover, .attachments:hover, .circle:hover {
   cursor: pointer;
 }
