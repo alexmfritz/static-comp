@@ -1,6 +1,6 @@
 # Static Comp Challenge
 
-## [Deployable Link]()
+## [Deployable Link](https://alexmfritz.github.io/static-comp/)
 
 ## Overview 
 
