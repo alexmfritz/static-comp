@@ -16,18 +16,21 @@ The original [spec](https://frontend.turing.edu/projects/static-comp-challenge.h
 
 ## Matching Comp
 
-<img width="884" alt="Screen Shot 2022-01-01 at 12 36 26 PM" src="https://user-images.githubusercontent.com/89096040/147859770-4259f266-a09f-4a3d-9bd5-e77d40d92da7.png">
+<img width="1323" alt="Screen Shot 2022-01-01 at 12 38 59 PM" src="https://user-images.githubusercontent.com/89096040/147860156-f70ecbe1-d907-4b40-86e0-4579f298432d.png">
 
-<img width="884" alt="Screen Shot 2022-01-01 at 12 36 26 PM" src="https://user-images.githubusercontent.com/89096040/147859786-41f37033-1790-43c8-b588-3a06825622a5.png">
+<img width="884" alt="Screen Shot 2022-01-01 at 12 36 26 PM" src="https://user-images.githubusercontent.com/89096040/147860161-d68813bb-0d3c-49cb-808b-7fafd5518051.png">
+
 
 #### Responsive Design
 
 ![](https://media.giphy.com/media/cWVHv6xI7AX5PwocdZ/giphy.gif)
 
 ![](https://media.giphy.com/media/BP1SwNQHwXQc9LkCLr/giphy.gif)
+
 Subtle response in the form of a pulse/blink animation to the navigational features in the header of the page. Anything that might offer interaction with the user should be clear.
 
 ![](https://media.giphy.com/media/7uan4l18dAJAdLIqhY/giphy.gif)
+
 My favorite feature of the composition is the responsive design to scrolling over each profile photo. Because it's Marvel themed, each profile card is the Avenger's personal identity and on mouse hover the photo switches to reveal their superhero persona.
 
 The static site is set up to have an arrow button on each card that would flip it around to potentially reveal more information about that person's profile. There is a responsive hover feature that changes that button to have a linear-gradient of that hero's color palette from their movies. 
