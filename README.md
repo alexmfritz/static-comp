@@ -18,7 +18,8 @@ The original [spec](https://frontend.turing.edu/projects/static-comp-challenge.h
 
 <img width="1323" alt="Screen Shot 2022-01-01 at 12 38 59 PM" src="https://user-images.githubusercontent.com/89096040/147860156-f70ecbe1-d907-4b40-86e0-4579f298432d.png">
 
-<img width="884" alt="Screen Shot 2022-01-01 at 12 36 26 PM" src="https://user-images.githubusercontent.com/89096040/147860161-d68813bb-0d3c-49cb-808b-7fafd5518051.png">
+
+<img width="884" alt="Screen Shot 2022-01-01 at 12 36 26 PM" src="https://user-images.githubusercontent.com/89096040/147860185-1d3cd713-ce04-4271-bea3-47e7bbd97861.png">
 
 
 #### Responsive Design
